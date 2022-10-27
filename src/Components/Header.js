@@ -9,7 +9,7 @@ const Header = () => {
           
           Star Wars
         </Link>
-        <Link to="/WhishList" className="header-WhishList" > Whish list </Link>
+        <Link to="/WhishList" className="header-WhishList" > Whishist </Link>
       </header>
     </div>
   );
